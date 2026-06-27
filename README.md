@@ -16,6 +16,4 @@
 * Generated actionable insights to support **employee retention, workforce planning, and HR decision-making**.  
 * Transformed raw HR data into meaningful business insights, demonstrating practical SQL and data analytics skills. 
 
-### Skills Used
 
-**SQL (MySQL) | MySQL Workbench | Data Analysis | HR Analytics | Data Cleaning | Aggregate Functions | Workforce Analytics | Business Intelligence** 
