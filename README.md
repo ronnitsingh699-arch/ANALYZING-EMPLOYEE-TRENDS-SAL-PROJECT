@@ -1,4 +1,4 @@
-### Analyzing Employee Trends Using SQL – Project Description (Point-Wise)
+### Analyzing Employee Trends Using SQL – Project Description 
 
 * Developed an end-to-end **Employee Trends Analysis** project using **SQL (MySQL)** to analyze workforce behavior and HR metrics. 
 * Worked with an HR dataset containing **1,470 employee records** and 15 attributes. 
